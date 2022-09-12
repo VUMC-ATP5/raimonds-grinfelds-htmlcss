@@ -1,2 +1,2 @@
-#sis ir mans pirmais GIT
+# sis ir mans pirmais GIT
 sis tiks papildinats velak
