@@ -1,3 +1,6 @@
-# sis ir mans pirmais GIT
-## Si ir versija 2, kas atrodas tikai otraja zara
-sis tiks papildinats velak
+# Nedaudz par sevi!
+## Mans vards ir Raimonds
+Esmu no Jurmalas. Dievinu dabu, kalnus, juru, okeanu , mezus. Loti patik celot un 15 gadu laika ar auto apceloju gandriz visu Eiropu. Dazas valstis apmeklejot vairakas reizes un izbraukajot krustam skersam. Iepazistoties ar savu tagadejo sievu, beidzot atklaju ari to, ka man tomer nav nekas preti ari lidot ar lidmasinu. Paskaidrosu- uz zemss man vienmer ir bijusi parlieciba, ka uz zemes es spesu izdzivot pat un ari iespejas izdzivot man ir lielakas neka debesis. Laikam to sauc par iemilesanos, vai ka savadak. Sieva ir no citas valstis un lidmasina bija labakasi risinajums ka visatrak noklut pie vinas. No ta briza atklaju ari Aziju. Izradijas, ka ar sievu, mus saista viena stihija, udeni. Un laikam ari tapec, nav divu domu, kur nakotne mes varetu apmesties uz dzivi, kada Taizemes nosturi, okeana mala.
+No citiem hobijiem ir gatavosana, psihologija, filozofija un dazadas sportiskas aktivitates.
+Atrodos militaraja dienesta jau gandriz 28 gadus. Paraleli, papildus savam dienestam esmu darbojies dazadas jomas, ik pa laikam domajot pabeigt dienestu un uzsakt ko pavisam jaunu, vai pieversties pilnvertigi kadai no esosajiem papildus darbiem. Jutu ka esmu sevi izsmelis un laiks ir kaut ko mainit, lai nakotne piepilditu savus merkus un sapnus kopa ar savu sievu un meitu ja vina velesies doties tur kur mes.  
+Esmu precejies, ka jau var noprast. Man ir lieliska sieva no Ukrainas, kuru sastapu Baltija juras krasta lukojoties jura, taluma, man ir mila audzumeita, suns un kakis no Ukrainas.
