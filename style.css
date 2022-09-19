@@ -1,0 +1,49 @@
+body {
+   background-color: aqua; 
+}
+
+p {
+    border-style: dashed;
+    color: red;
+
+}
+
+h1 {
+padding-left: 40px;
+
+}
+
+a {
+    color:darkkhaki;
+}
+
+button#specialButton{
+    background-color: gold;
+}
+
+
+div.pilnais{
+    min-height: 100px;
+    background-color: blue;
+}
+div.pilnais{
+    min-height: 100px;
+    background-color: blue;
+}
+
+div.kreisais{
+    min-height: 50px;
+    background-color: red;
+}
+
+div.labais{
+    min-height: 50px;
+    background-color: green;
+}
+div.pilnais{
+    min-height: 100px;
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+
